@@ -50,5 +50,5 @@ There are two ways to run this notebook. By using **Google Colab** or run it on 
 - conda install jupyter
 - jupyter notebook  
 ```
-10. Open Habitech_Clustering_for_Match_Making_Feature.ipynb
-11. Now, you can run this notebook through Jupyter Notebook! Happy Hacking!
+9. Open Habitech_Clustering_for_Match_Making_Feature.ipynb
+10. Now, you can run this notebook through Jupyter Notebook! Happy Hacking!
