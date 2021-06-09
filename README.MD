@@ -52,3 +52,6 @@ There are two ways to run this notebook. By using **Google Colab** or run it on 
 ```
 9. Open Habitech_Clustering_for_Match_Making_Feature.ipynb
 10. Now, you can run this notebook through Jupyter Notebook! Happy Hacking!
+
+## Reference
+McConville, Ryan & Santos-Rodriguez, Raul & Piechocki, Robert & Craddock, I.J.. (2021). N2D: (Not Too) Deep Clustering via Clustering the Local Manifold of an Autoencoded Embedding. 10.1109/ICPR48806.2021.9413131
